@@ -154,4 +154,4 @@ async def freeze(ctx):
 
 bot.run(TOKEN)
 
-#TOKEN = 'MTE0Mzk5NzE2NjA4MDIyOTU0Ng.GHIAeF.5YjlDLHs-E2mmVlbjOo65GcXXGiCe9NJwzbPlY'
+
