@@ -20,4 +20,5 @@ pip install -r requirements.txt
    Search for a Tutorial on YouTube if you dont know how.
 5. Type ``` python bot.py 
         ```
+6. Now For the last step, type /setchannel in the channel you want where it should count!
         
