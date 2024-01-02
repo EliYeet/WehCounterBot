@@ -19,6 +19,6 @@ pip install -r requirements.txt
 4. Insert the Token of your Bot which you need to create on the Discord Developer Portal (https://discord.com/developers/applications)
    Search for a Tutorial on YouTube if you dont know how.
 5. Type ``` python bot.py 
-        ```
+      ```
 6. Now For the last step, type /setchannel in the channel you want where it should count!
         
